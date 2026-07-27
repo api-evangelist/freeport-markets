@@ -1,8 +1,27 @@
 aid: freeport-markets
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/freeport-markets.png
 name: Freeport Markets
-description: Freeport Markets is a company surfaced as a portfolio company of y-combinator and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: 'Freeport Markets is a Y Combinator-backed fintech and crypto trading
+  platform offering 24/7 self-custody access to stocks, crypto, commodities, forex,
+  rates, perpetual futures and pre-IPO shares, with leverage and AI analysts that turn
+  social and financial media into a real-time feed of market-moving news and actionable
+  trade ideas. The consumer product is delivered primarily through iOS and Android
+  apps and emphasizes self-custody, "smart money" signal tracking (insiders, politicians,
+  hedge funds and social media), and unified DeFi opportunities in a single interface.
+  This profile was surfaced as a Y Combinator portfolio company and enriched by the
+  API Evangelist pipeline; Freeport Markets does not publish a public developer API,
+  OpenAPI, SDKs, or developer documentation at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/freeport-markets/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,12 +31,39 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Trading
+- Cryptocurrency
+- Fintech
+- Investing
+- DeFi
+- Pre-IPO
+- Web3
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: DomainSecurity
+  url: security/freeport-markets-domain-security.yml
+- type: LLMsTxt
+  url: llms/freeport-markets-llms.txt
+- type: Website
+  url: https://www.freeportmarkets.com/
+- type: Blog
+  url: https://freeportmarkets.com/learn.html
+- type: Support
+  url: https://freeportmarkets.com/contact.html
+- type: TermsOfService
+  url: https://freeportmarkets.com/terms-conditions.html
+- type: PrivacyPolicy
+  url: https://freeportmarkets.com/privacy-policy.html
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

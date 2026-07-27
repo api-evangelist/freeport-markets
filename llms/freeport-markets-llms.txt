@@ -1,0 +1,20 @@
+# Freeport Markets
+
+> Freeport Markets is a Y Combinator-backed fintech and crypto trading platform offering 24/7 self-custody access to stocks, crypto, commodities, forex, rates, perpetual futures and pre-IPO shares, with leverage and AI analysts that turn social and financial media into a real-time feed of market-moving news and actionable trade ideas. The product is delivered primarily through iOS and Android apps. Freeport Markets does not publish a public developer API, OpenAPI, SDKs, or developer documentation at this time.
+
+## About
+- [Website](https://www.freeportmarkets.com/): Company home and product overview
+- [Learn / Blog](https://freeportmarkets.com/learn.html): Research and educational content
+- [Freeport Research Hub](https://freeportmarkets.com/freeport-index.html): Market research index
+- [Contact / Support](https://freeportmarkets.com/contact.html): Support and partnerships (partners@freeportmarkets.com)
+
+## Apps
+- [iOS App](https://apps.apple.com/us/app/freeport-markets/id6758952978)
+- [Android App](https://play.google.com/store/apps/details?id=com.freeportmarkets.app)
+
+## Legal
+- [Terms & Conditions](https://freeportmarkets.com/terms-conditions.html)
+- [Privacy Policy](https://freeportmarkets.com/privacy-policy.html)
+- [Cookie Policy](https://freeportmarkets.com/cookies-policy.html)
+- [Feature Restrictions](https://freeportmarkets.com/feature-restrictions.html)
+- [Points Program Terms](https://freeportmarkets.com/points-program-terms.html)
